@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f1b76e2c91eaf5667d1f0312827e9d5a"
+build_time: [539957016, 55730000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Address+C.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Address.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Bytes.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Conversions.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Error.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/FDSet.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/InternetSocket.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Pipe.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Select.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Socket.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/SocketOptions+Deprecated.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/SocketOptions.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/TCPSocket.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/Types.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/SocksCore/UDPSocket.swift": [539956933, 0]

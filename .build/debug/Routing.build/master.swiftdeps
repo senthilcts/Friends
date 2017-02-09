@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5bceb250d6feded0bc9ec5290c1f2661"
+build_time: [539957042, 698876000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/Branch.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/ParametersContainer.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteBuilder+RouteCollection.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteBuilder+RouteGroup.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteBuilder.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteCollection.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteGroup+RouteBuilder.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/RouteGroup.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/Routing/Router.swift": [539956973, 0]

@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "927c5d2de0ca06ac9fa3c028aeca5798"
+build_time: [539957041, 871389000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Request+WebSockets.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/WebSocketFormatErrors.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Client/WebSocket+Client.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Communication/WebSocket+Send.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Connection/Headers+WebSockets.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Connection/WebSockets+Hash.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Model/Fragmentation.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Model/Frame.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Model/WebSocket+Error.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Model/WebSocket.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Serialization/FrameDeserializer.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Serialization/FrameSerializer.swift": [539956890, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Engine-1.3.9/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [539956890, 0]

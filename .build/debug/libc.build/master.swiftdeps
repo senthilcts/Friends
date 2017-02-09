@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "be35370149be69e2663f6cd5939398a5"
+build_time: [539957016, 56826000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Core-1.1.1/Sources/libc/libc.swift": [539956798, 0]

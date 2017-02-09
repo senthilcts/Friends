@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "87b65ac9e0f56fa1f2f62f92c38d1c1d"
+build_time: [539957019, 416725000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/Socks/Socks.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/Socks/SynchronousTCPServer.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/Socks/SynchronousUDPServer.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/Socks/TCPClient.swift": [539956933, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Socks-1.2.5/Sources/Socks/UDPClient.swift": [539956933, 0]

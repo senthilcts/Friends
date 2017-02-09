@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5c35e1ed64ed1fa6857383aeafb25459"
+build_time: [539957016, 55714000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/BCrypt.swift": [539956959, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/Random.swift": [539956959, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/URandom.swift": [539956959, 0]

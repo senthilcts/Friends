@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/master.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Certificates.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Certificates.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Certificates.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Certificates~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Certificates.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Config.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Config.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Config.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Config~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Config.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Context.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Context.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Context.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Context.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Error.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Error.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Error.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Error.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Mode.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Mode.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Mode.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Mode~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Mode.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Socket.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Socket.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Socket.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Socket.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Utilities.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Utilities.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Utilities.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/TLS.build/Utilities.swiftdeps"
+  }
+}

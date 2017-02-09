@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e6d79a7838d610c860aa25cc65ce067e"
+build_time: [539957045, 181761000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/TypeSafeRouting/Generated.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/TypeSafeRouting/StringInitializable.swift": [539956973, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Routing-1.0.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [539956973, 0]

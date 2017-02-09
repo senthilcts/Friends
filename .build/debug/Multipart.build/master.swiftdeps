@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ec0a8b2f1ef06db775f447859421a885"
+build_time: [539957042, 698870000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/Multipart/BoundaryParser.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/Multipart/HeaderParser.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/Multipart/Multipart+BytesConvertible.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/Multipart/Parser.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/Multipart/Part.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/Multipart/Serializer.swift": [539956979, 0]

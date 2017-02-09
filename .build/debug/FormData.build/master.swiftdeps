@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "07e8f5ae45f0f1df79b598c39b570108"
+build_time: [539957043, 481370000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/FormData/ContentDispositionParser.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/FormData/Field.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/FormData/Parser.swift": [539956979, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Multipart-1.0.1/Sources/FormData/Serializer.swift": [539956979, 0]

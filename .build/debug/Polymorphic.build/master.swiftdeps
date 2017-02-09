@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5ee2e7cf3b41dabf463b6b382ef185a4"
+build_time: [539957016, 55452000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [539956884, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [539956884, 0]

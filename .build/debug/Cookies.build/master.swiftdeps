@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "854e832028598d6bf9c6fa44a7254cd2"
+build_time: [539957046, 448249000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookie+BytesConvertible.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookie+Parse.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookie+Serialize.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookie.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookies+BytesConvertible.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookies+Literal.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookies+Parse.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookies+Serialize.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Cookies.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Request+Cookies.swift": [539956741, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Vapor-1.5.5/Sources/Cookies/Response+Cookies.swift": [539956741, 0]

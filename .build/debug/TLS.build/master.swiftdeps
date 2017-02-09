@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "450d088fed369cc766c4b82324b2edd9"
+build_time: [539957031, 244561000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Certificates.swift": [539956927, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Config.swift": [539956927, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Context.swift": [539956927, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Error.swift": [539956927, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Mode.swift": [539956927, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Socket.swift": [539956927, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/TLS-1.1.1/Sources/TLS/Utilities.swift": [539956927, 0]

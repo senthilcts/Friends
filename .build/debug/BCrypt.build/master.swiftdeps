@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "48e7bd2af2ca1af429bf004c759c783c"
+build_time: [539957036, 963011000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": [539956793, 0]

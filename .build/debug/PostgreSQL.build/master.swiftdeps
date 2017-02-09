@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "39e21fe689c565590b6037f978c879e3"
+build_time: [539957032, 821971000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Connection.swift": [539956995, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Database.swift": [539956995, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Node+Oid.swift": [539956995, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/PostgreSQL+Node.swift": [539956992, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Result.swift": [539956995, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/PostgreSQL-1.1.0/Sources/PostgreSQL/Status.swift": [539956992, 0]

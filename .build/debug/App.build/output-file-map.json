@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Sources/App/main.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/main.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/PostController.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Sources/App/Models/Friend.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Friend.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Models/Friend.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Friend~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Friend.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Post.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/App.build/Post.swiftdeps"
+  }
+}

@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e20aa9f4ee02a5d4cb0564d0b6e2d4c6"
+build_time: [539957031, 245282000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/File.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSON+Bytes.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSON+Equatable.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSON+Node.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSON+Parse.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSON+Serialize.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSON.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/JSONRepresentable.swift": [539956945, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/JSON-1.0.6/Sources/JSON/Sequence+Convertible.swift": [539956945, 0]

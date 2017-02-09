@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/thendral/POC/vapor/Friends/Packages/Core-1.1.1/Sources/libc/libc.swift": {
+    "dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/libc.build/libc.d",
+    "object": "/Users/thendral/POC/vapor/Friends/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/thendral/POC/vapor/Friends/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/thendral/POC/vapor/Friends/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

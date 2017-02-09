@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e768483550878c05d177395153a1d8b2"
+build_time: [539957036, 861746000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/Hash/Hash.swift": [539956793, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/Hash/Method.swift": [539956793, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/Hash/Random.swift": [539956793, 0]

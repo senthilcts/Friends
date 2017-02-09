@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "230f2ddcad5b79ac9bd6191bc4496123"
+build_time: [539957055, 147934000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Sources/App/main.swift": [539955974, 0]
+  "/Users/thendral/POC/vapor/Friends/Sources/App/Controllers/PostController.swift": [539934197, 0]
+  "/Users/thendral/POC/vapor/Friends/Sources/App/Models/Friend.swift": [539955947, 0]
+  "/Users/thendral/POC/vapor/Friends/Sources/App/Models/Post.swift": [539934197, 0]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "37c54efe452d949fa7cdb9e5a3a1f87a"
+build_time: [539957033, 113081000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": [539956793, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/Random/Random.swift": [539956793, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": [539956793, 0]

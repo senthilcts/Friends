@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f9ccc7635bc2f804c3656e8816105fb1"
+build_time: [539957027, 512907000]
+inputs:
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/AuthorizationCode.swift": [539956963, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Facebook.swift": [539956963, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Google.swift": [539956963, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2.swift": [539956963, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Error.swift": [539956963, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Token.swift": [539956963, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/URLSession+Turnstile.swift": [539956959, 0]
+  "/Users/thendral/POC/vapor/Friends/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/WebMemoryRealm.swift": [539956963, 0]
